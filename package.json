@@ -17,7 +17,7 @@
     "framework",
     "cypress"
   ],
-  "author": "joanmedia",
+  "author": "SachinJadhav222",
   "license": "ISC",
   "devDependencies": {
     "@applitools/eyes-cypress": "^3.25.5",
